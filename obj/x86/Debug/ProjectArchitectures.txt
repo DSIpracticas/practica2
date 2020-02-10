@@ -1,0 +1,1 @@
+U:\hlocal\practica2\WeatherPanel.csproj;x86
